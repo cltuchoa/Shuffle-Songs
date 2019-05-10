@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shuffle Songs</string>
+    <string name="server_error_message">Could not to connect to the server</string>
+
+    <string name="popup_music">Music:</string>
+    <string name="popup_artist">Artist:</string>
+    <string name="popup_album">Album:</string>
+    <string name="popup_time">Time:</string>
+    <string name="popup_genre">Genre:</string>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "resultCount": 3,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "primaryGenreName": "Rock",
+      "artistName": "Artist 1",
+      "id": 1
+    },
+    {
+      "id": 1,
+      "trackName": "Music 1",
+      "primaryGenreName": "Rock",
+      "artworkUrl": "Path",
+      "artistId": 1,
+      "artistName": "Artist 1",
+      "wrapperType": "track"
+    },
+    {
+      "id": 2,
+      "trackName": "Music 2",
+      "primaryGenreName": "Rock",
+      "artworkUrl": "Path",
+      "artistId": 1,
+      "artistName": "Artist 1",
+      "wrapperType": "track"
+    }
+  ]
+}
